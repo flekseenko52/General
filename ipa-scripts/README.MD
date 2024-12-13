@@ -5,4 +5,4 @@
 username;name;surname;email;phone;pager;department
 
 Пример заполнения:
-aasvidlo;Aleksey;Svidlo;aasvidlo@sbertech.ru;+7-xxx-xx;GTOPS-XXX;SBT
+aasvidlo;Aleksey;Svidlo;aasvidlo@mail.ru;+7-xxx-xx;TIKEK-XXX;ORGUNIT
